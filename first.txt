@@ -1,0 +1,22 @@
+git init
+	re/initializes empty git repository
+
+git status
+	shows the current status of the repository
+
+git add filename
+	adds file to the repository
+	filename must include extensions as well
+
+git add .
+or
+git add *
+	adds all the files in folder to the repository
+
+git reset
+	cancels the changes in the repository
+
+git commit -m "message"
+	confirms the changes in the git
+
+
