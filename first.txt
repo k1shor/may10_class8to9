@@ -33,6 +33,8 @@ git branch branchname
 	creates new branch 
 
 git checkout branchname
-	changes the current branch
+	changes the current branch.
+
+
 
 
