@@ -18,5 +18,6 @@ git reset
 
 git commit -m "message"
 	confirms the changes in the git
+	cannot be reset after commit.
 
 
