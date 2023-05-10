@@ -20,4 +20,12 @@ git commit -m "message"
 	confirms the changes in the git
 	cannot be reset after commit.
 
+git remote add origin "url"
+	adds the github link(repository link) to link with the repository
+
+git push -u origin branchname
+	updates the github with the current repository
+
+git pull origin master
+	downloads from the master branch of the origin
 
