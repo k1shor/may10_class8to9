@@ -30,3 +30,6 @@ git pull origin master
 	downloads from the master branch of the origin
 
 git checkout branchname
+
+git branch branchname
+
