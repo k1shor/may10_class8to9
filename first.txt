@@ -1,4 +1,6 @@
 this is from master branch
+this is from main branch
+this is mergin branches
 
 git init
 	re/initializes empty git repository
@@ -35,7 +37,9 @@ git branch branchname
 	creates new branch 
 
 git checkout branchname
+
 	changes the current branch
+	changes the current branch.
 
 
 
